@@ -1,8 +1,8 @@
 # The Learning Gazette
 
-HBS Launching Tech Ventures in the Age of AI · AI Brain assignment · Fall 2026
+Harvard AI in Education Club · Fall 2026
 
-I built this newsroom for Harvard's AI in Education Club to turn a week of scattered reporting into a newsletter members could review in one place.
+As president of Harvard's AI in Education Club, I built this newsroom to turn a week of scattered reporting into a newsletter members could review in one place.
 
 Specialist agents collect stories, check sources and draft an issue. A live dashboard shows their progress, and an editor approves publication. Failed runs resume without repeating completed work.
 
