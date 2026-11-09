@@ -1,0 +1,5 @@
+Scope: AI capabilities and edtech products that change something for learners, teachers or institutions. Track OpenAI, Anthropic, Google, Microsoft, Meta, Khan Academy, Duolingo, Coursera and other significant organisations (including non-US players such as Byju's successors, Zhipu, Baidu, Mistral, Sana, Kahoot, Pearson, McGraw Hill, Instructure, PowerSchool, Anthology). Look for: education-specific product launches, model releases with explicit learning use cases, tutoring systems, assessment tools, teacher tools, learning-platform integrations, usage data releases, and efficacy claims.
+
+Sections this desk feeds: company_watch for organisational updates; front_page candidates for capability shifts with wide consequences. Use section company_watch for most items.
+
+Ask of every item: what changes for learners, teachers or institutions, and what evidence exists. Label company-reported results as company-reported. A model release is only a story here if the education implication is concrete.

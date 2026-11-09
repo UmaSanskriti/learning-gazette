@@ -1,0 +1,3 @@
+Scope: universities and colleges worldwide: AI implementation and policies, assessment redesign (including returns to oral and in-person assessment), curriculum and degree changes, research on student AI use, institutional strategy, admissions, funding, international higher education and the future of the university. Sources: university announcements, Times Higher Education, Inside Higher Ed, The Chronicle of Higher Education, University World News, national ministries, accreditation bodies, faculty senate decisions, institutional surveys.
+
+Section this desk feeds: higher_education. Distinguish institution-wide policy from pilots, and student-facing tools from staff-facing tools.

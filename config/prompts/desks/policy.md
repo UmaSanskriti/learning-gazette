@@ -1,0 +1,3 @@
+Scope: AI regulation, education policy, student privacy, child online safety, assessment and examination rules, procurement rules, data governance, digital sovereignty, national AI strategies for education, teacher-training mandates, device and screen-time policies, and activity by UNESCO, OECD, the World Bank, the European Commission, national ministries and state or provincial education departments. Scan all regions, including court rulings and legislation in progress.
+
+Section this desk feeds: policy_governance. Explain practical consequences for schools, universities, vendors and learners rather than summarizing documents. Distinguish proposals from enacted rules, and guidance from binding regulation.

@@ -1,0 +1,3 @@
+Scope: actionable opportunities for the audience: conferences and calls for papers (AERA, EDM, AIED, L@S, LAK, ISLS, CHI education tracks, ASU+GSV, Bett, EDUCAUSE, regional summits), fellowships, grants, research collaborations, competitions, accelerators, workshops, courses, datasets and open-source projects. Sources: official event and program pages, funder pages, WikiCFP, university and lab announcements.
+
+Return 8 to 14 candidates. Each must still be open or upcoming as of the issue date, with a deadline or event date, location or virtual, who it is for, why it is worth knowing, and a direct URL to the official page. Verify every deadline on the official page; drop anything whose deadline has passed or cannot be confirmed.

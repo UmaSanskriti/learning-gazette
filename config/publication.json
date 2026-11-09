@@ -1,0 +1,117 @@
+{
+  "name": "The Learning Gazette",
+  "tagline": "Global intelligence on education, AI & the science of learning",
+  "publisher": "Harvard AI in Education Club",
+  "audience": "Students and faculty across Harvard, especially the Graduate School of Education, the School of Engineering and Applied Sciences and Harvard Business School, who care about edtech and AI in education. Secondary readers: educators, learning scientists, policymakers, edtech builders, founders and investors worldwide.",
+  "reading_time_minutes": 25,
+  "issue_weekday": "friday",
+  "site_base_path": "",
+  "max_concurrency": 3,
+  "models": {
+    "collector": "claude-opus-5",
+    "verifier": "claude-opus-5",
+    "graphics": "claude-opus-5",
+    "editor": "claude-opus-5",
+    "columnist": "claude-opus-5"
+  },
+  "effort": {
+    "collector": "high",
+    "verifier": "high",
+    "graphics": "medium",
+    "editor": "xhigh",
+    "columnist": "high"
+  },
+  "max_tool_uses": {
+    "collector": 30,
+    "verifier": 20,
+    "graphics": 10,
+    "editor": 0,
+    "columnist": 6
+  },
+  "tracked_organizations": [
+    "OpenAI", "Anthropic", "Google", "Microsoft", "Meta",
+    "Khan Academy", "Duolingo", "Coursera"
+  ],
+  "desks": [
+    {
+      "id": "ai-edtech",
+      "name": "AI & EdTech Innovation",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["company_watch", "front_page"],
+      "summary": "New AI capabilities and edtech products that change something for learners, teachers or institutions; Company Watch for tracked organisations."
+    },
+    {
+      "id": "research",
+      "name": "Learning Science & Research",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["research_review"],
+      "summary": "New peer-reviewed studies, preprints and reports on learning, cognition, AI and learning, assessment and motivation; feeds Paper of the Week."
+    },
+    {
+      "id": "social",
+      "name": "Social Signal",
+      "kind": "stories",
+      "graphics": false,
+      "sections": ["social_signal"],
+      "summary": "What is circulating on X and LinkedIn (with Bluesky, Threads, Reddit and Substack as corroboration) about AI, AI in education and education: substantive threads, debates, viral classroom stories and announcements that surfaced socially first. Opinion, attributed and labelled."
+    },
+    {
+      "id": "capital",
+      "name": "Startup & Capital Radar",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["startup_capital"],
+      "summary": "Funding rounds, acquisitions, accelerators, notable product launches and market movements in edtech and AI for learning."
+    },
+    {
+      "id": "policy",
+      "name": "Policy & Governance",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["policy_governance"],
+      "summary": "AI regulation, education policy, privacy, child safety, assessment rules, procurement, data governance, government AI strategies, UNESCO, OECD and World Bank activity."
+    },
+    {
+      "id": "world",
+      "name": "World Education Desk",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["world_education"],
+      "summary": "Significant education developments across every world region, including non-AI stories: foundational learning, teacher shortages, curriculum, financing, access, literacy, skills, school safety."
+    },
+    {
+      "id": "higher-ed",
+      "name": "Higher Education",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["higher_education"],
+      "summary": "University AI implementation, assessment and curriculum changes, degrees, student behaviour, institutional strategy, international higher education."
+    },
+    {
+      "id": "k12",
+      "name": "K-12 Desk",
+      "kind": "stories",
+      "graphics": true,
+      "sections": ["k12"],
+      "summary": "Teachers, schools, curriculum, assessment, AI literacy, student safety, learning outcomes, foundational skills and classroom implementation. Keep teacher-facing and student-facing AI distinct."
+    },
+    {
+      "id": "harvard",
+      "name": "Harvard & MIT Watch",
+      "kind": "stories",
+      "graphics": false,
+      "sections": ["harvard_watch"],
+      "summary": "Harvard Graduate School of Education, Project Zero, Harvard AI initiatives, learning and cognition labs, faculty publications, talks, events, grants and programs; MIT when especially relevant."
+    },
+    {
+      "id": "opportunities",
+      "name": "Opportunity Board",
+      "kind": "opportunities",
+      "graphics": false,
+      "sections": ["opportunity_board"],
+      "summary": "Conferences, fellowships, grants, calls for papers, competitions, accelerators, workshops, courses, datasets and open-source projects that are still actionable."
+    }
+  ]
+}
